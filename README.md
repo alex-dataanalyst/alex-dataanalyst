@@ -1,28 +1,17 @@
 <h1>Hi, I'm Alex! <br/><a href="https://github.com/alex-dataanalyst">Data Analyst</a>, <a href="https://www.linkedin.com/in/alexander-astucia-650791217/">Experienced Career Professional</a>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
-<h2>Below are for example only. Will be edit for a short while (Sample)</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Data Analyst</b>
+  - Compile, prepare, and analyze HR data(KPI) to support decision-making.
+  - Develop dashboards and visualizations using Excel and Power BI for real-time insights.
+  - Collaborate with HR teams to understand reporting needs and deliver accurate data.
+  - Monitor trends to enhance HR data accuracy and optimize reporting processes.
 
 <h2>📜 Online Bootcamp Certificate </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Google Data Analytics Professional](https://www.credly.com/badges/e108e1c3-52e7-4206-bf83-71fdd32fa6f0/linked_in_profile)
+- [Mastering Microsoft Excel with the MO 200 Training](https://drive.google.com/file/d/1rzpcezg5hZj9UAAy7o3VKEeauUd7LkqP/view?fbclid=IwAR3lLp_RFbB79pEpynFuOMRYaJu3Ryiq6g8ZPSYXFv-7J57KJXQJ8qGkJv4)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
