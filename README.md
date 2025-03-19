@@ -8,6 +8,8 @@
   - Develop dashboards and visualizations using Excel and Power BI for real-time insights.
   - Collaborate with HR teams to understand reporting needs and deliver accurate data.
   - Monitor trends to enhance HR data accuracy and optimize reporting processes.
+
+- [Portfolio_HR recruitment report](https://github.com/alex-dataanalyst/alex-dataanalyst/blob/16d79590b1041c08f8c47150b73171316904893d/Portfolio_HR%20Recruitment%20Report_202503.pdf)
     
 
 <h2>📜 Online Bootcamp Certificate </h2>
