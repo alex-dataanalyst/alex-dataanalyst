@@ -12,9 +12,8 @@
 
 - [Google Data Analytics Professional](https://www.credly.com/badges/e108e1c3-52e7-4206-bf83-71fdd32fa6f0/linked_in_profile)
 - [Mastering Microsoft Excel with the MO 200 Training](https://drive.google.com/file/d/1rzpcezg5hZj9UAAy7o3VKEeauUd7LkqP/view?fbclid=IwAR3lLp_RFbB79pEpynFuOMRYaJu3Ryiq6g8ZPSYXFv-7J57KJXQJ8qGkJv4)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [The Ultimate MySQL Bootcamp](https://www.udemy.com/certificate/UC-d1985c01-23ff-4f5a-95a1-1c2c943147ca/)
+- [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-0c32ba50-86f0-4bb8-b1a9-a7d265f24aee/)
 
 <h2> 🤳 Connect with me:</h2>
 
