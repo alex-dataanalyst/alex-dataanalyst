@@ -9,8 +9,8 @@
   - Collaborate with HR teams to understand reporting needs and deliver accurate data.
   - Monitor trends to enhance HR data accuracy and optimize reporting processes.
 
-- [Portfolio_HR recruitment report.pdf](https://github.com/alex-dataanalyst/alex-dataanalyst/blob/16d79590b1041c08f8c47150b73171316904893d/Portfolio_HR%20Recruitment%20Report_202503.pdf)
-- [Portfolio_HR recruitment report.pbix](https://github.com/alex-dataanalyst/alex-dataanalyst/blob/2718ab81104c3466bfd5d131b74ecad4940cb043/Portfolio_HR%20Recruitment%20Report_202503.pbix)
+- [HR Recruitment Data Report.pdf (Portfolio)](https://github.com/alex-dataanalyst/portfolio_power-bi/blob/f577e3a2225aa0329545aa8dbd16e927263e6424/HR%20Recruitment%20Data%20Report.pdf)
+- [HR Recruitment Processing Report](https://github.com/alex-dataanalyst/portfolio_power-bi/blob/f577e3a2225aa0329545aa8dbd16e927263e6424/HR%20Recruitment%20Processing%20Analytics.pdf)
     
 
 <h2>📜 Online Bootcamp Certificate </h2>
