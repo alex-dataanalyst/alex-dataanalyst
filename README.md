@@ -10,7 +10,7 @@
   - Monitor trends to enhance HR data accuracy and optimize reporting processes.
 
 - [HR Recruitment Data Report.pdf (Portfolio)](https://github.com/alex-dataanalyst/portfolio_power-bi/blob/f577e3a2225aa0329545aa8dbd16e927263e6424/HR%20Recruitment%20Data%20Report.pdf)
-- [HR Recruitment Processing Report (Portfolio)](https://github.com/alex-dataanalyst/portfolio_power-bi/blob/f577e3a2225aa0329545aa8dbd16e927263e6424/HR%20Recruitment%20Processing%20Analytics.pdf)
+- [HR Recruitment Processing.pdf Report (Portfolio)](https://github.com/alex-dataanalyst/portfolio_power-bi/blob/f577e3a2225aa0329545aa8dbd16e927263e6424/HR%20Recruitment%20Processing%20Analytics.pdf)
     
 
 <h2>📜 Online Bootcamp Certificate </h2>
