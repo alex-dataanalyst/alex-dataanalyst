@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! <br/><a href="https://github.com/alex-dataanalyst">Data Analyst</a>, <a href="https://www.linkedin.com/in/alexander-astucia-650791217/">Experienced Career Professional</a>
+<h1> <br/><a href="https://github.com/alex-dataanalyst">Data Analyst</a>, <a href="https://www.linkedin.com/in/alexander-astucia-650791217/">Experienced Career Professional</a>
 
 <h2>👨‍💻 Data Analyst Experience:</h2>
 
