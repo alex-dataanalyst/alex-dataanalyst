@@ -12,6 +12,7 @@
 - [HR Recruitment Data Report.pdf (Portfolio)](https://github.com/alex-dataanalyst/portfolio_power-bi/blob/f577e3a2225aa0329545aa8dbd16e927263e6424/HR%20Recruitment%20Data%20Report.pdf)
 - [HR Recruitment Processing Report.pdf (Portfolio)](https://github.com/alex-dataanalyst/portfolio_power-bi/blob/f577e3a2225aa0329545aa8dbd16e927263e6424/HR%20Recruitment%20Processing%20Analytics.pdf)
 - [Laptop Inventory.pdf (Portfolio)](https://github.com/alex-dataanalyst/portfolio_power-bi/blob/801fd04885f8306a3c3408b35f9fb13a68c116ad/Portfolio_Laptop%20Inventory.pdf)
+- [PRF Data & Policies (Portfolio)](https://github.com/alex-dataanalyst/portfolio_power-bi/blob/99e21bbc61b4b14eaee2b6e1ca6990569e2dec6e/PRD%20Status%20%26%20Policies.pdf)
     
 
 <h2>📜 Online Bootcamp Certificate </h2>
